@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DnDTranscriber", "DnDTranscriber.pyproj", "{E7B16118-0FFA-4CA5-B106-4D0D79101715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7B16118-0FFA-4CA5-B106-4D0D79101715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B16118-0FFA-4CA5-B106-4D0D79101715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC6C5668-354A-4D55-B01D-1E6B6A61DF4D}
+	EndGlobalSection
+EndGlobal
